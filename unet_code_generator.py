@@ -18,7 +18,7 @@ def unet_code_generator(depth, n_channels, n_classes, bilinear=False):
     code_text = ""
 
     # --- Beginning (remains the same) ---
-    code_text += "from unet_parts import *\n"
+    code_text += "from FUNet.unet_parts import *\n\n"
     code_text += "class UNet(nn.Module):\n"
     code_text += f"    def __init__(self, n_channels={n_channels}, n_classes={n_classes}, bilinear={bilinear}):\n"
     code_text += "        super(UNet, self).__init__()\n"
