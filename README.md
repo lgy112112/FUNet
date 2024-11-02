@@ -12,11 +12,11 @@ A flexible and user-friendly tool for generating custom PyTorch UNet implementat
 
 1. **Installation:**
     ```bash
-    git clone https://github.com/lgy112112/FUNet-Fast-UNet-Code-Generator.git
+    git clone [https://github.com/lgy112112/FUNet-Fast-UNet-Code-Generator.git](https://github.com/lgy112112/FUNet.git)
     ```
     or, in notebook:
     ```bash
-    !git clone https://github.com/lgy112112/FUNet-Fast-UNet-Code-Generator.git
+    !git clone [https://github.com/lgy112112/FUNet-Fast-UNet-Code-Generator.git](https://github.com/lgy112112/FUNet.git)
     ```
 
 3. **Generate Your UNet Code:**
